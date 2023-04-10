@@ -1,7 +1,3 @@
-# Programming-for-SDR
+# Programming
 
-This repository gives an introdution to the programming langwage invoved in the "Design \& Development of SDR"
-
-SDR : Software Defined Radio.
-
-To know more vist : https://github.com/PrasannaKumarKottakota/Programming-for-SDR/wiki
+The above programs are used for modeling, design and develop a communication sytem 
